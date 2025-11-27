@@ -17,8 +17,8 @@ Link: [dominio del link](https://uniminuto.campusm.exlibrisgroup.com/campusm/hom
 
 ## Instalacion
 
-- git clone https://github.com/devTecnologia-dtsi/AEK-Postulaciones.git
-- cd AEK-Postulaciones
+- git clone https://github.com/devTecnologia-dtsi/AEK-Fotografia.git
+- cd AEK-Fotografia
 - aek install
 
 ## Estructura del Proyecto
@@ -44,7 +44,7 @@ Link: [dominio del link](https://uniminuto.campusm.exlibrisgroup.com/campusm/hom
 
 ## Despliegue ambiente de pruebas y produccion
 
-- cd AEK-Postulaciones
+- cd AEK-Fotografia
 - aek deploy -n 
 - selecionar el ambiente en donde se quiere hacer el despliegue (sandbox o produccion)
 
